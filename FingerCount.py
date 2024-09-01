@@ -11,9 +11,7 @@ Serial Communication:
 
 How to run:
 -pip install opencv-python mediapipe pyserial
--
 
-Wulu from SunFounder 2024.08
 """
 
 import cv2
