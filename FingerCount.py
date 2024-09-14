@@ -11,6 +11,7 @@ Serial Communication:
 
 How to run:
 -pip install opencv-python mediapipe pyserial
+-python FingerCount.py  w
 
 """
 
